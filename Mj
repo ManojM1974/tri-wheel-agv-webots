@@ -1,6 +1,6 @@
-controllers/tri_agv_controller/tri_agv_controller.py
-Python controller file
-worlds/line_following_world.wbt
-Simulation world
-README.md
-Optional readme
+tri-wheel-agv/
+├── controllers/
+│   └── tri_agv_controller/
+│       └── tri_agv_controller.py  ← ✅ Python controller
+└── worlds/
+    └── line_following_world.wbt   ← ✅ Webots world file (.wbt)
